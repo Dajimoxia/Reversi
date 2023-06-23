@@ -1,1 +1,1 @@
-# Reversi
+# Reversi.github.io
